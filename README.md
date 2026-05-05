@@ -28,9 +28,7 @@ C# • Unity • Android Firmware • Git • Linux
 
 ## 🐍 Activity
 
-![snake](<p align="center">
-  <img src="https://raw.githubusercontent.com/usr0bin/Usr0bin/output/github-contribution-grid-snake.svg" width="600" />
-</p>)
+[snake](https://raw.githubusercontent.com/usr0bin/Usr0bin/output/github-contribution-grid-snake.svg)
 
 ---
 
