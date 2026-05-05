@@ -35,4 +35,4 @@
 * Telegram: https://t.me/usr0bin
 
 
-![snake](https://raw.githubusercontent.com/usr0bin/snake-animation/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/usr0bin/Usr0bin/blob/output/github-contribution-grid-snake.svg)
