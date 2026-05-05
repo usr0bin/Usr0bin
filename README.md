@@ -33,4 +33,6 @@
 ## 📫 Contact
 
 * Telegram: https://t.me/usr0bin
-  
+
+
+![snake](https://raw.githubusercontent.com/usr0bin/snake-animation/output/github-contribution-grid-snake.svg)
