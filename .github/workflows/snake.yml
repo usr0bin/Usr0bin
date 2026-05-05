@@ -16,9 +16,12 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: usr0bin
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          color_snake: "#00ff9d"
-          color_dots: "#1a1a1a,#2a2a2a,#3a3a3a,#00ff9d"
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+          grid_size: 20
+          cell_size: 16
 
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
