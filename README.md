@@ -22,13 +22,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=usr0bin\&show_icons=true\&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usr0bin\&layout=compact\&theme=default)
-
----
 
 ## 🚀 Projects
 
