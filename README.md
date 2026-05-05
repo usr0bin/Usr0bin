@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm usr0bin
 
-<!--
-**usr0bin/Usr0bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Firmware builder (Mi Pad 6)
+🎮 Unity developer (C#)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🔧 Building and optimizing firmware for Mi Pad 6
+* 🎮 Developing games with Unity
+* ⚙️ Working with C# and system-level software
+
+---
+
+## 🛠️ Tech Stack
+
+* C#
+* Unity
+* Android / Firmware
+* Git
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=usr0bin\&show_icons=true\&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usr0bin\&layout=compact\&theme=default)
+
+---
+
+## 🚀 Projects
+
+* 🔧 Firmware builds for Mi Pad 6
+* 🎮 Unity projects (games & prototypes)
+
+---
+
+## 📫 Contact
+
+* Telegram: https://t.me/usr0bin
+  
